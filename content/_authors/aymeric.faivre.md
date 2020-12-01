@@ -1,14 +1,16 @@
 ---
 fullname: Aymeric Faivre
-role: Designer
+role: Designer Ui / Ux
 avatar:
 link:
 github:
 missions:
   - start: 2019-02-04
-    end: 2019-03-14
+    end: 2021-12-31
     status: independent
     employer: La Zone
 startups:
+    - classes12
+previously:
     - mon-entreprise
 ---
